@@ -1,3 +1,3 @@
-export default function() {
-    console.log("Hello world!");
+export default function(a, b) {
+    return a + b;
 };
